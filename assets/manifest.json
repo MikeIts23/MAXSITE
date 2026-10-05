@@ -1,0 +1,141 @@
+{
+  "assets": [
+    {
+      "contentType": "image/svg+xml",
+      "id": "95e9241041dccd23",
+      "kind": "image",
+      "name": "Coral-Property-1.svg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/95e9241041dccd23.svg",
+      "url": "https://coralproperty.it/wp-content/uploads/2024/08/Coral-Property-1.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0ea234a18b9042e0",
+      "kind": "image",
+      "name": "Screenshot-2026-09-11-alle-15.42.11-584x438.png",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/0ea234a18b9042e0.png",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/09/Screenshot-2026-09-11-alle-15.42.11-584x438.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "fe3107ffb360bab1",
+      "kind": "image",
+      "name": "Screenshot-2026-09-02-alle-17.27.57-584x438.png",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/fe3107ffb360bab1.png",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/09/Screenshot-2026-09-02-alle-17.27.57-584x438.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "635b7f2fb144c3be",
+      "kind": "image",
+      "name": "Screenshot-2026-09-02-alle-17.17.28-584x438.png",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/635b7f2fb144c3be.png",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/09/Screenshot-2026-09-02-alle-17.17.28-584x438.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "b8f182ffad7c82b2",
+      "kind": "image",
+      "name": "Screenshot-2026-09-02-alle-16.56.37-584x438.png",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/b8f182ffad7c82b2.png",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/09/Screenshot-2026-09-02-alle-16.56.37-584x438.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ff4c91b3bcf2e390",
+      "kind": "image",
+      "name": "Screenshot-2026-09-02-alle-17.02.51-584x438.png",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/ff4c91b3bcf2e390.png",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/09/Screenshot-2026-09-02-alle-17.02.51-584x438.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dca49c44b5317ff6",
+      "kind": "image",
+      "name": "WM-24-584x438.webp",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/dca49c44b5317ff6.webp",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/WM-24-584x438.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9c2ea226f8d83953",
+      "kind": "image",
+      "name": "MG_0703-HDR-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/9c2ea226f8d83953.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/MG_0703-HDR-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "be992878b9e6b427",
+      "kind": "image",
+      "name": "MG_9214-HDR-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/be992878b9e6b427.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/MG_9214-HDR-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cb2b677aa9afc8d8",
+      "kind": "image",
+      "name": "33-2-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/cb2b677aa9afc8d8.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/33-2-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4f9152aa14408be0",
+      "kind": "image",
+      "name": "Gemini_Generated_Image_5f9hu35f9hu35f9h-1-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/4f9152aa14408be0.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/Gemini_Generated_Image_5f9hu35f9hu35f9h-1-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "653042db9009dbbb",
+      "kind": "image",
+      "name": "MG_0153_1-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/653042db9009dbbb.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/MG_0153_1-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f8f749e5e30259d1",
+      "kind": "image",
+      "name": "1124-1-1-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/f8f749e5e30259d1.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/1124-1-1-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5cd4b20f8538f720",
+      "kind": "image",
+      "name": "MG_9963-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/5cd4b20f8538f720.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/MG_9963-584x438.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2dbaad7c870771d1",
+      "kind": "image",
+      "name": "5-dimensioni-grandi-1-584x438.jpeg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/2dbaad7c870771d1.jpeg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/5-dimensioni-grandi-1-584x438.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9f77c85e35cbb43c",
+      "kind": "image",
+      "name": "304-master-584x438.jpeg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/9f77c85e35cbb43c.jpeg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/304-master-584x438.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cded436a146fae33",
+      "kind": "image",
+      "name": "IMG_8748-584x438.jpg",
+      "path": "/var/folders/f1/h3xrk3kd4l3544bxsfkjykpm0000gn/T/browser-use/assets/9eab244b-668f-467b-8b14-f79ddd79f01c/cded436a146fae33.jpg",
+      "url": "https://coralproperty.it/wp-content/uploads/2026/08/IMG_8748-584x438.jpg"
+    }
+  ],
+  "failures": []
+}
